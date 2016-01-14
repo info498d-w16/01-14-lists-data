@@ -42,7 +42,7 @@
         android:text="Cats"
         android:layout_below="@id/checkbox_dog"
         />
-    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    <RadioGroup 
         android:id="@+id/radioGroup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
